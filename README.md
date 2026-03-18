@@ -1,10 +1,8 @@
-# 🌍 Magnetic Declination Solver (Surveying Tool)
+#  Magnetic Declination Solver (Surveying Tool)
 
 A simple and interactive **Streamlit web application** to calculate **Magnetic Declination** from the magnetic bearing of the sun and visualize it with a clear diagram.
 
-This project is designed for **surveying students and civil engineers** to understand both the **numerical solution and graphical representation** in an easy and intuitive way.
-
----
+This project is designed for **surveying students and Both for civil engineers and computer engineering ** to understand both the **numerical solution and graphical representationusing pythn and stream lit where visual represention is seen ** in an easy and intuitive way.clears not only th logical but how visualisation make easy to sort and understand.
 
 ##  Features
 
@@ -13,8 +11,6 @@ This project is designed for **surveying students and civil engineers** to under
 -  Automatic diagram generation using matplotlib
 -  Interactive UI using Streamlit
 -  Simple and user-friendly interface
-
----
 
 ## Concepts Covered
 
@@ -29,24 +25,6 @@ This project is designed for **surveying students and civil engineers** to under
 - **Matplotlib**
 - **NumPy**
 ---
-##  Installation & Setup
-
-### Step 1: Clone the repository
-### Step 2: Install dependencies
-## Deployment (Streamlit Cloud)
-1. Push your project to GitHub  
-2. Go to https://streamlit.io/cloud  
-3. Click **Deploy App**  
-4. Select your repository  
-5. Set:
-   - File: `app.py`  
-6. Click **Deploy**
-## Output
-- Displays step-by-step calculation  
-- Shows final declination result  
-- Generates a visual diagram of True North and Magnetic North  
-
----
 
 ## Use Cases
 
@@ -55,8 +33,6 @@ This project is designed for **surveying students and civil engineers** to under
 - Academic mini projects  
 - Concept visualization and revision  
 
----
-
 ## Future Improvements
 
 - Add multiple surveying problems  
@@ -64,13 +40,11 @@ This project is designed for **surveying students and civil engineers** to under
 - Add interactive angle visualization  
 - Improve UI/UX design  
 
----
-
 ## 👩‍💻 Author
-
 **Shivani Bhandwalkar**
 
 ## Live App
   Local URL: http://localhost:8501
   Network URL: http://192.168.95.48:8501
   Git link :https://github.com/shivanibhandwalkar/surveying-solver.git
+  STREAMLIT LINK:https://shivanibhandwalkar-surveying-solver-app-8epxbo.streamlit.app/
